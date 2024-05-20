@@ -1,0 +1,8 @@
+1, To Kill a Mockingbird,Harper Lee
+2, 1984,George Orwell
+3, The Great Gatsby,F. Scott Fitzgerald
+4, Automate the Boring Stuff with Python -2nd Edition,Al Sweigart
+5, Object-Oriented Python,Irv Kalb
+6,Hands-On Machine Learning with Scikit-Learn,Aurélien Géron
+7,The Pragmatic Programmer: 20th Anniversary Edition - 2nd Edition: Your Journey to Mastery, David Thomas (Author - Publisher); Andrew Hunt (Author); Anna Katarina (Narrator)
+8,Modern Software Engineering: Doing What Works to Build Better Software Faster,David Farley (Author); Amy Gordon (Narrator); Pearson (Publisher)
